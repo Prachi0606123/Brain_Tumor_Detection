@@ -1,4 +1,3 @@
-# Brain_Tumor_Detection
 Project Title: Brain Tumor Detection Using Deep Learning
 
 
