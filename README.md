@@ -30,3 +30,5 @@ Python, TensorFlow, Keras, OpenCV, Numpy, Matplotlib, Pandas
 Insights:
 •	Achieved a detection accuracy of 95%, demonstrating the potential for practical clinical application.
 •	Published findings in the GIS Science Journal 
+
+
